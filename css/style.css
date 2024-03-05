@@ -2057,7 +2057,7 @@ a:focus {
 .footer .footer-newsletter {
     position: relative;
     margin-bottom: 45px;
-    color: #5a5656;
+    color: #000000;
 }
 
 .footer .footer-contact h2,
@@ -2066,7 +2066,7 @@ a:focus {
     margin-bottom: 30px;
     font-size: 22px;
     font-weight: 700;
-    color: #FDBE33;
+    color: #d6331a;
 }
 
 .footer .footer-link a {
@@ -2144,7 +2144,7 @@ a:focus {
 
 .footer .copyright p {
     margin: 0;
-    color: #999999;
+    color: #100c0c;
 }
 
 .footer .copyright .col-md-6:last-child p {
