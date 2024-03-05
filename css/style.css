@@ -2049,7 +2049,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     padding-top: 90px;
-    background: #20212B;
+    background: linear-gradient(to right, #686898, #3b7aaa);
 }
 
 .footer .footer-contact,
@@ -2057,7 +2057,7 @@ a:focus {
 .footer .footer-newsletter {
     position: relative;
     margin-bottom: 45px;
-    color: #ffffff;
+    color: #5a5656;
 }
 
 .footer .footer-contact h2,
