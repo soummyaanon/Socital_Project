@@ -4,7 +4,7 @@
 body {
     color: #777777;
     font-weight: 500;
-  background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+  background: linear-gradient(to right, #6d8fc7, #c2e9fb);
   
     font-family: 'Quicksand', sans-serif;
 }
@@ -336,7 +336,7 @@ a:focus {
     position: relative;
     width: 100%;
     min-height: 300px;
-    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+    background: linear-gradient(to right,#6d8fc7, #c2e9fb);
     margin-bottom: 45px;
 }
 
@@ -1095,7 +1095,7 @@ a:focus {
     left: 20px;
     padding: 10px 0;
     text-align: center;
-    background: #ffffff;
+    background: linear-gradient(to right, #6d8fc7, #c2e9fb);
     transition: .3s;
     overflow: hidden;
 }
