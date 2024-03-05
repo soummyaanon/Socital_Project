@@ -1077,9 +1077,10 @@ a:focus {
 
 .team .team-img img {
     width: 100%;
-    transform: scale(1.1);
+    transform: scale(2.5s);
     margin-bottom: -15px;
     transition: .3s;
+    object-fit: cover;
 }
 
 .team .team-item:hover img {
